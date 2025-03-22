@@ -1,4 +1,5 @@
-version: 2
+Verizon: AT&T
+
 
 registries:
   ghcr: # Define access for a private registry
